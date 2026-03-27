@@ -1,6 +1,6 @@
 <picture>
-	<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/f0c9ae98-055a-454e-b37b-38dd0bea5d50">
-	<img align="left" height="120" src="https://github.com/user-attachments/assets/72eac861-0f30-4781-a4a6-ffa017dafd8b" alt="LogPaper logo" style="float: left;"/>
+	<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/959b0da0-c79b-4e24-a8bf-c15ee0db5354">
+	<img align="left" height="120" src="https://github.com/user-attachments/assets/992a5540-7d13-4389-a27e-ee8fca952c6c" alt="LogPaper logo" style="float: left;"/>
 </picture>
 <h3 align="right">Live syslog wallpaper, <br>built for Ammonia</h3>
 
